@@ -45,7 +45,7 @@ redgreenunittest==0.1.1
 requests==2.21.0
 requests-oauthlib==1.2.0
 requirements==0.1
-rsa==4.0
+rsa==4.1
 six==1.11.0
 traitlets==4.3.2
 uritemplate==3.0.0
